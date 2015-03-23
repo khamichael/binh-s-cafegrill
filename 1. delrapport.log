@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  23 MAR 2015 12:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  23 MAR 2015 13:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1138,6 +1138,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 169--173
 
  []
 
+
+Package Fancyhdr Warning: \headheight is too small (0.0pt): 
+ Make it at least 12.0pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 174.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 174.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 174.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 174.
+[2]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 174.
 Package babel Info: Redefining danish shorthand "~
@@ -1147,21 +1162,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 175--177
 
  []
 
-
-Package Fancyhdr Warning: \headheight is too small (0.0pt): 
- Make it at least 12.0pt.
- We now make it that large for the rest of the document.
- This may cause the page layout to be inconsistent, however.
-
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 177.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 177.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 177.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 177.
-[2]
 Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 179.
 Package babel Info: Redefining danish shorthand "~
@@ -1170,57 +1170,99 @@ Package babel Info: Redefining danish shorthand "|
 (babel)             in language  on input line 182.
 Package babel Info: Redefining danish shorthand "~
 (babel)             in language  on input line 182.
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--189
+
+ []
+
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 185.
+(babel)             in language  on input line 189.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 185.
+(babel)             in language  on input line 189.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 187.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 191.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 187.
+(babel)             in language  on input line 191.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 187.
+(babel)             in language  on input line 191.
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--190
+Underfull \hbox (badness 10000) in paragraph at lines 192--194
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 191--193
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
 
  []
 
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 203.
+(babel)             in language  on input line 207.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 203.
+(babel)             in language  on input line 207.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 216.
+(babel)             in language  on input line 207.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 216.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 221.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 221.
-Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 221.
-Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 221.
+(babel)             in language  on input line 207.
 [3]
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 221.
+(babel)             in language  on input line 207.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 221.
+(babel)             in language  on input line 207.
 Package babel Info: Redefining danish shorthand "|
-(babel)             in language  on input line 221.
+(babel)             in language  on input line 220.
 Package babel Info: Redefining danish shorthand "~
-(babel)             in language  on input line 221.
- [4]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
+(babel)             in language  on input line 220.
+ <OOSE210.jpg, id=68, 963.6pt x 541.02126pt>
+File: OOSE210.jpg Graphic file (type jpg)
+ <use OOSE210.jpg>
+Package pdftex.def Info: OOSE210.jpg used on input line 221.
+(pdftex.def)             Requested size: 481.79883pt x 270.50996pt.
+
+Overfull \hbox (12.32837pt too wide) in paragraph at lines 221--222
+[]
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 223.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 223.
+<OOSE53.jpg, id=69, 963.6pt x 541.02126pt>
+File: OOSE53.jpg Graphic file (type jpg)
+ <use OOSE53.jpg>
+Package pdftex.def Info: OOSE53.jpg used on input line 224.
+(pdftex.def)             Requested size: 481.79883pt x 270.50996pt.
+
+Overfull \hbox (12.32837pt too wide) in paragraph at lines 224--225
+[]
+ []
+
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 226.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 226.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 226.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 226.
+[4 <./OOSE210.jpg>]
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 226.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 226.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 230.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 230.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 230.
+Package babel Info: Redefining danish shorthand "|
+(babel)             in language  on input line 230.
+Package babel Info: Redefining danish shorthand "~
+(babel)             in language  on input line 230.
+ [5 <./OOSE53.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 230.
  (./1. delrapport.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 230.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 230.
 
 
 Package rerunfilecheck Warning: File `"1. delrapport".out' has changed.
@@ -1228,26 +1270,26 @@ Package rerunfilecheck Warning: File `"1. delrapport".out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `"1. delrapport".out':
-(rerunfilecheck)             Before: CE5526C610A8471630409B73E23186E8;308
-(rerunfilecheck)             After:  95EEC3E9F5912A44D21EE974AAAD9277;583.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 221.
+(rerunfilecheck)             Before: 955987D0FC15B6CBB502A992CBC5B8FA;695
+(rerunfilecheck)             After:  83A497FDEC196B77BE0A0B9A8A9607CC;699.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 230.
  ) 
 Here is how much of TeX's memory you used:
- 12277 strings out of 493117
- 166720 string characters out of 6135433
- 306510 words of memory out of 5000000
- 15469 multiletter control sequences out of 15000+600000
- 48854 words of font info for 102 fonts, out of 8000000 for 9000
+ 12299 strings out of 493117
+ 167010 string characters out of 6135433
+ 305513 words of memory out of 5000000
+ 15484 multiletter control sequences out of 15000+600000
+ 51576 words of font info for 104 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  29i,11n,43p,3279b,350s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2014/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
 exlive/2014/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/201
 4/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2014/texmf-di
 st/fonts/type1/urw/times/utmri8a.pfb>
-Output written on "1. delrapport.pdf" (4 pages, 49151 bytes).
+Output written on "1. delrapport.pdf" (5 pages, 140309 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 58 compressed objects within 1 object stream
- 14 named destinations out of 1000 (max. 500000)
- 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 97 PDF objects out of 1000 (max. 8388607)
+ 81 compressed objects within 1 object stream
+ 17 named destinations out of 1000 (max. 500000)
+ 114 words of extra memory for PDF output out of 10000 (max. 10000000)
 
