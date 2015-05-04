@@ -3,4 +3,7 @@
 {% block content %}
   <h2>Smart</h2>
   <p>DET HER ER HEMMELIGT </p>
+ {% for message in get_flashed_messages() %}
+        {{ message }}
+      {% endfor %}
 {% endblock %}

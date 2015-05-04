@@ -45,5 +45,10 @@ def logout():
     flash('Du er nu logged ud')
     return redirect(url_for('login'))
 
+@app.route('/test')
+def test():
+  return render_template('test.php')
+
+
 if __name__ == '__main__':
   app.run(debug=True)

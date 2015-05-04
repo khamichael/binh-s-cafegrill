@@ -1,9 +1,21 @@
 {% extends "layout.html" %}
 {% block content %}
+
   <div class="jumbo">
     <h2>Medarbejder SKEMA<h2>
     <h3>Her skal skemaet for pigerne være.<h3>
     <p1> bummelum bummelum <p1>
+
+
+
+
+<?php
+echo "Hello World!";
+?>
+
+<?php include(calender.php); ?>
+
+
 
 <table align="center" border="1" cellpadding="2">
     <tr>
@@ -25,6 +37,8 @@
         <td>25 <td>26 <td>27 <td>28 <td>29 <td>30 <td>
     </tr>
 </table>
-    
+ {% for message in get_flashed_messages() %}
+        {{ message }}
+      {% endfor %}
   </div>
 {% endblock %}
