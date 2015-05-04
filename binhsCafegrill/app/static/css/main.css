@@ -83,6 +83,14 @@ h3 {
   color: #999;
   text-decoration: none;
 }
+
+/* Message flashing */
+.flash {
+  background-color: #FBB0B0;
+  padding: 10px;
+  width: 400px;
+}
+
 /*CSS File For Sign-In webpage*/ 
 #body-color{ background-color:#6699CC; } 
 #Signin{ margin-top:150px; 
