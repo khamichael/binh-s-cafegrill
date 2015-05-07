@@ -1,28 +1,15 @@
 
 
+from intro_to_flask import app
+from flask import render_template, request, flash
 from forms import ContactForm
-
 from flask.ext.mail import Message, Mail
-
-from flask import Flask, render_template, request, flash
-
-from flask.ext.mail import Message, Mail
-
-app = Flask(__name__)
-app.secret_key = 'development key'
-
-app.config["MAIL_SERVER"] = "smtp.gmail.com"
-app.config["MAIL_PORT"] = 465
-app.config["MAIL_USE_SSL"] = True
-app.config["MAIL_USERNAME"] = 'datalogskaters@gmail.com'
-app.config["MAIL_PASSWORD"] = 'datalogi'
 
 mail = Mail()
 
-
-mail.init_app(app)
-
 app.secret_key = 'development key'
+
+
 
 @app.route('/')
 def home():
