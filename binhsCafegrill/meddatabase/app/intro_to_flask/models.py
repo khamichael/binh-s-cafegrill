@@ -1,4 +1,5 @@
 __author__ = 'MichaelNguyen'
+<<<<<<< HEAD
 
 from flask.ext.sqlalchemy import SQLAlchemy
 from werkzeug import generate_password_hash, check_password_hash
@@ -25,3 +26,8 @@ class User(db.Model):
   def check_password(self, password):
     return check_password_hash(self.pwdhash, password)
 
+=======
+from flask.ext.sqlalchemy import SQLAlchemy
+
+db = SQLAlchemy()
+>>>>>>> origin/master
